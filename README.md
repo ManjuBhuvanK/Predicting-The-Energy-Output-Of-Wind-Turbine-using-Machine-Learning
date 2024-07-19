@@ -47,7 +47,7 @@ code .
 
 5. Download the Pre-trained Model Ensure that the pre-trained model file power_prediction.sav is placed in the root directory of the project. You can download this file from your source or training process.
 
-6. Running the Application To run the Flask application, execute the following command:
+6. To run the Project in Flask application, execute the following command:
 
 python app.py
 
